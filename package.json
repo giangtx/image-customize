@@ -6,10 +6,25 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "animejs": "^3.2.2",
+    "antd": "^5.21.3",
+    "fabric": "^4.6.0",
+    "i18next": "^19.0.0",
+    "lodash": "^4.17.21",
     "react": "^18.3.1",
+    "react-ace": "^12.0.0",
+    "react-color": "^2.14.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "uuid": "^10.0.0",
+    "uuidv4": "^6.2.13",
+    "warning": "^4.0.3",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/react": "^16.14.21",
+    "@types/react-dom": "^16.9.14",
+    "sass": "^1.56.2"
   },
   "scripts": {
     "start": "react-scripts start",
